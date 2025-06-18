@@ -102,7 +102,7 @@ Limit Loan Size in Risk Bands
 
 ## PDF Report
 
-A detailed analysis report is available in the following PDF file: [View Report](Jamboree_Linear_Regression.pdf).
+A detailed analysis report is available in the following PDF file: [View Report](Loan_Tap.pdf).
 
 ## Contact
 
